@@ -1,0 +1,8 @@
+[32minfo[39m: Registered cron: document-scan @ */1 * * * * {"timestamp":"2026-05-11 23:36:35"}
+[32minfo[39m: Server listening on port 3000 {"port":3000,"timestamp":"2026-05-11 23:36:35"}
+[32minfo[39m: Cron START: document-scan {"timestamp":"2026-05-11 23:37:00"}
+[32minfo[39m: Starting document scan {"timestamp":"2026-05-11 23:37:00"}
+[31merror[39m: GET request failed Invalid URL {"timestamp":"2026-05-11 23:37:00"}
+[31merror[39m: Document scan failed {"error":"Invalid URL","timestamp":"2026-05-11 23:37:00"}
+[31merror[39m: Cron ERROR: document-scan {"error":"Invalid URL","timestamp":"2026-05-11 23:37:00"}
+[32minfo[39m: Cron DONE: document-scan (5ms) {"timestamp":"2026-05-11 23:37:00"}

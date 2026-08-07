@@ -1,0 +1,3 @@
+[31merror[39m: GET request failed Invalid URL {"timestamp":"2026-05-11 23:37:00"}
+[31merror[39m: Document scan failed {"error":"Invalid URL","timestamp":"2026-05-11 23:37:00"}
+[31merror[39m: Cron ERROR: document-scan {"error":"Invalid URL","timestamp":"2026-05-11 23:37:00"}
